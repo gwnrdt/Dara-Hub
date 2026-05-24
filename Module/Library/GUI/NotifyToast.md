@@ -5,7 +5,7 @@
 Load the module using `loadstring`:
 
 ```lua
-loadstring(game:HttpGet("https://darahub.pages.dev/Module/Library/GUI/NotifyToast.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gwnrdt/Dara-Hub/refs/heads/main/Module/Library/GUI/NotifyToast.lua"))()
 ```
 
 After loading, the function is available globally via `getgenv().NotifyToast`.
