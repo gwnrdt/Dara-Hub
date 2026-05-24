@@ -6,7 +6,7 @@ ButtonLib is a UI library for Roblox that allows you to create draggable buttons
 ## Installation
 ```lua
 -- Load the library
-local ButtonLib = loadstring(game:HttpGet("https://darahub.pages.dev/Module/Library/GUI/ButtonLib.lua"))()
+local ButtonLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/gwnrdt/Dara-Hub/refs/heads/main/Module/Library/GUI/ButtonLib.lua"))()
 -- Or paste the entire ButtonLib code
 ```
 
