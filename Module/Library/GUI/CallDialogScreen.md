@@ -5,7 +5,7 @@
 Load the module from the provided URL using `loadstring`:
 
 ```lua
-local RblxCallDialog = loadstring(game:HttpGet("https://darahub.pages.dev/Module/Library/GUI/CallDialogScreen.lua"))()
+local RblxCallDialog = loadstring(game:HttpGet("https://raw.githubusercontent.com/gwnrdt/Dara-Hub/refs/heads/main/Module/Library/GUI/CallDialogScreen.lua"))()
 ```
 
 After loading, the function is also available globally via `getgenv().RblxCallDialog`.
